@@ -24,6 +24,8 @@ gem 'paperclip', '~> 4.2.1'
 
 gem 'cocoon', '~> 1.2.6'
 
+gem 'devise', '~> 3.4.1'
+
 gem 'jquery-rails'
 
 gem 'turbolinks'
